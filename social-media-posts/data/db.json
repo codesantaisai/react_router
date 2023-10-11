@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "My First Post",
+      "datetime": "july 01,2021 11:17:36",
+      "body": "Made a video about tesla 01 results"
+    },
+    {
+      "id": 2,
+      "title": "My second Post",
+      "datetime": "October 07, 2023 11:30:16 PM",
+      "body": "I attended a DeFi blockchain even"
+    }
+  ]
+}
